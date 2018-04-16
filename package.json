@@ -1,0 +1,14 @@
+{
+  "name": "eureka-demo",
+  "version": "1.0.0",
+  "author": "Brett Williams",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eureka-js-client": "^4.4.1",
+    "koa": "^2.5.0"
+  },
+  "scripts": {
+    "start": "node src/index"
+  }
+}
